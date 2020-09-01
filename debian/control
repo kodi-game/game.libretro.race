@@ -1,0 +1,17 @@
+Source: kodi-game-libretro-race
+Priority: extra
+Maintainer: wsnipex <wsnipex@a1.net>
+Build-Depends: debhelper (>= 9.0.0),
+               cmake,
+               kodi-addon-dev,
+               libretro-race (>= 2.16.0) | race (>= 2.16.0)
+Standards-Version: 3.9.8
+Section: libs
+
+Package: kodi-game-libretro-race
+Section: libs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, kodi, kodi-game-libretro
+Enhances: kodi
+Description: SNK - Neo Geo Pocket / Color (RACE) core for kodi's retroplayer
+ SNK - Neo Geo Pocket / Color (RACE) core for kodi's retroplayer
