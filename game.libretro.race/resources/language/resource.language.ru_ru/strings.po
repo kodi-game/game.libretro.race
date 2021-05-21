@@ -22,9 +22,9 @@ msgid "Settings"
 msgstr "Настройки"
 
 msgctxt "#30001"
-msgid "Dark Filter Level (percent)"
+msgid "Language"
 msgstr ""
 
 msgctxt "#30002"
-msgid "Language"
+msgid "Dark Filter Level (percent)"
 msgstr ""
