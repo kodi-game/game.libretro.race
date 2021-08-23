@@ -21,9 +21,17 @@ msgid "Settings"
 msgstr ""
 
 msgctxt "#30001"
-msgid "Language"
+msgid "Language (Restart)"
 msgstr ""
 
 msgctxt "#30002"
 msgid "Dark Filter Level (percent)"
+msgstr ""
+
+msgctxt "#30003"
+msgid "Frameskip"
+msgstr ""
+
+msgctxt "#30004"
+msgid "Frameskip Threshold (%)"
 msgstr ""
