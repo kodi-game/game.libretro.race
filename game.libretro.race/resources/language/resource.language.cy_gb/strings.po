@@ -16,6 +16,16 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=(n==0) ? 0 : (n==1) ? 1 : (n==2) ? 2 : (n==3) ? 3 :(n==6) ? 4 : 5;\n"
 
+msgctxt "Addon Summary"
+msgid "SNK - Neo Geo Pocket / Color (RACE) v2.16"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "RACE is a Neo Geo Pocket (NGP) and Neo Geo Pocket Color (NGPC) emulator for multiple platforms.
+
+Supported files: .ngp, .ngc, .ngpc, .npc"
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr ""
