@@ -18,6 +18,6 @@
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.race</source>
 		<summary lang="en_GB">SNK - Neo Geo Pocket / Color (RACE) v2.16</summary>
-		<description lang="en_GB">RACE is a Neo Geo Pocket (NGP) and Neo Geo Pocket Color (NGPC) emulator for multiple platforms.Supported files: .ngp, .ngc, .ngpc, .npc</description>
+		<description lang="en_GB">RACE is a Neo Geo Pocket (NGP) and Neo Geo Pocket Color (NGPC) emulator for multiple platforms.</description>
 	</extension>
 </addon>

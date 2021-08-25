@@ -21,7 +21,7 @@ msgid "SNK - Neo Geo Pocket / Color (RACE) v2.16"
 msgstr ""
 
 msgctxt "Addon Description"
-msgid "RACE is a Neo Geo Pocket (NGP) and Neo Geo Pocket Color (NGPC) emulator for multiple platforms.Supported files: .ngp, .ngc, .ngpc, .npc"
+msgid "RACE is a Neo Geo Pocket (NGP) and Neo Geo Pocket Color (NGPC) emulator for multiple platforms."
 msgstr ""
 
 msgctxt "#30000"
