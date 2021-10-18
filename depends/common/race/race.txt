@@ -1,1 +1,1 @@
-race https://github.com/libretro/RACE/archive/51a0912c0cbc075ade192193595f6fff7b871810.tar.gz
+race https://github.com/libretro/RACE/archive/2af96d0f1e233bdf28485ec9ab931fb44ad212be.tar.gz
