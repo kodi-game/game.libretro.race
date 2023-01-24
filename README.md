@@ -13,7 +13,7 @@ GPLv2
 
 ### Icon
 
-![Icon](game.libretro.race/resources/icon.png)
+![SNK - Neo Geo Pocket / Color (RACE) icon](game.libretro.race/resources/icon.png)
 
 ### Fanart
 
@@ -21,6 +21,6 @@ Help make me fanart!
 
 ### Screenshots
 
-![Screenshot](game.libretro.race/resources/screenshot-01.jpg)
-![Screenshot](game.libretro.race/resources/screenshot-02.jpg)
-![Screenshot](game.libretro.race/resources/screenshot-03.jpg)
+![SNK - Neo Geo Pocket / Color (RACE) screenshot](game.libretro.race/resources/screenshot-01.jpg)
+![SNK - Neo Geo Pocket / Color (RACE) screenshot](game.libretro.race/resources/screenshot-02.jpg)
+![SNK - Neo Geo Pocket / Color (RACE) screenshot](game.libretro.race/resources/screenshot-03.jpg)
