@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.race"
 		name="SNK - Neo Geo Pocket / Color (RACE)"
-		version="2.16.0.20"
+		version="2.16.0.21"
 		provider-name="Judge_, Flavor, Akop Karapetyan, theelf, frangarcj, negativeExponent">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
