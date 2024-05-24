@@ -33,6 +33,7 @@
 		<description lang="en_GB">RACE is a Neo Geo Pocket (NGP) and Neo Geo Pocket Color (NGPC) emulator for multiple platforms.</description>
 		<description lang="es_ES">RACE es un emulador de Neo Geo Pocket (NGP) y Neo Geo Pocket Color (NGPC) para múltiples plataformas.</description>
 		<description lang="it_IT">RACE è un emulatore Neo Geo Pocket (NGP) e Neo Geo Pocket Color (NGPC) per più piattaforme.</description>
+		<description lang="sl_SI">RACE je emulator Neo Geo Pocket (NGP) in Neo Geo Pocket Color (NGPC) za več platform.</description>
 		<description lang="zh_CN">RACE 是一款适用于多平台的 Neo Geo Pocket (NGP) 和 Neo Geo Pocket Color (NGPC) 模拟器。</description>
 	</extension>
 </addon>
