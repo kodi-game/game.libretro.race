@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "RACE is a Neo Geo Pocket (NGP) and Neo Geo Pocket Color (NGPC) emulator for multiple platforms."
 msgstr "RACE è un emulatore Neo Geo Pocket (NGP) e Neo Geo Pocket Color (NGPC) per più piattaforme."
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Impostazioni"
-
 msgctxt "#30001"
 msgid "Language (Restart)"
 msgstr "Lingua (riavvio)"
@@ -44,3 +40,7 @@ msgstr "Salto fotogrammi"
 msgctxt "#30004"
 msgid "Frameskip Threshold (%)"
 msgstr "Soglia di salto fotogrammi (%)"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Impostazioni"

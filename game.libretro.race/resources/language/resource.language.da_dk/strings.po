@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "RACE is a Neo Geo Pocket (NGP) and Neo Geo Pocket Color (NGPC) emulator for multiple platforms."
 msgstr "RACE er en Neo Geo Pocket (NGP) og Neo Geo Pocket Color (NGPC) emulator til flere platforme."
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Indstillinger"
-
 msgctxt "#30001"
 msgid "Language (Restart)"
 msgstr "Sprog (genstart)"
@@ -44,3 +40,7 @@ msgstr "Spring frame over"
 msgctxt "#30004"
 msgid "Frameskip Threshold (%)"
 msgstr "Tærskel når der springes en frame over (%)"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Indstillinger"
