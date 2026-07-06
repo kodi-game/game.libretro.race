@@ -25,6 +25,7 @@
 			<screenshot>resources/screenshot-02.jpg</screenshot>
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
+		<summary lang="cs_CZ">SNK - Neo Geo Pocket / Color (RACE)</summary>
 		<summary lang="da_DK">SNK - Neo Geo Pocket / Farve (RACE)</summary>
 		<summary lang="en_GB">SNK - Neo Geo Pocket / Color (RACE)</summary>
 		<summary lang="es_ES">SNK - Neo Geo Pocket / Color (RACE)</summary>
@@ -33,6 +34,7 @@
 		<summary lang="ru_RU">SNK — Neo Geo Pocket / Color (RACE)</summary>
 		<summary lang="sv_SE">SNK - Neo Geo Pocket / Color (RACE)</summary>
 		<summary lang="zh_CN">SNK - Neo Geo Pocket / Color (RACE)</summary>
+		<description lang="cs_CZ">RACE je emulátor Neo Geo Pocket (NGP) a Neo Geo Pocket Color (NGPC) pro více platforem.</description>
 		<description lang="da_DK">RACE er en Neo Geo Pocket (NGP) og Neo Geo Pocket Color (NGPC) emulator til flere platforme.</description>
 		<description lang="en_GB">RACE is a Neo Geo Pocket (NGP) and Neo Geo Pocket Color (NGPC) emulator for multiple platforms.</description>
 		<description lang="es_ES">RACE es un emulador de Neo Geo Pocket (NGP) y Neo Geo Pocket Color (NGPC) para múltiples plataformas.</description>
