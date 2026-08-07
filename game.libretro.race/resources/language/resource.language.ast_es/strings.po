@@ -41,6 +41,18 @@ msgctxt "#30004"
 msgid "Frameskip Threshold (%)"
 msgstr ""
 
+msgctxt "#30005"
+msgid "Real-Time Clock"
+msgstr ""
+
+msgctxt "#30006"
+msgid "Audio Quality (Restart)"
+msgstr ""
+
+msgctxt "#30007"
+msgid "Sound Samplerate (Hint) (Restart)"
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Axustes"
