@@ -1,12 +1,112 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<settings>
-	<category label="128">
-		<setting label="30001" type="select" id="race_language" values="english|japanese" default="english"/>
-		<setting label="30002" type="select" id="race_dark_filter_level" values="0|5|10|15|20|25|30|35|40|45|50" default="0"/>
-		<setting label="30003" type="select" id="race_frameskip" values="disabled|auto|manual" default="disabled"/>
-		<setting label="30004" type="select" id="race_frameskip_threshold" values="33|15|18|21|24|27|30|36|39|42|45|48|51|54|57|60" default="33"/>
-		<setting label="30005" type="select" id="race_rtc_mode" values="deterministic|realtime" default="deterministic"/>
-		<setting label="30006" type="select" id="race_audio_quality" values="fast|accurate" default="fast"/>
-		<setting label="30007" type="select" id="race_audio_samplerate" values="auto|32000|44100|48000" default="auto"/>
-	</category>
+<settings version="1">
+	<section id="game.libretro.race">
+		<category id="general" label="128">
+			<group id="1">
+				<setting id="race_language" type="string" label="30001" help="30008">
+					<level>0</level>
+					<default>english</default>
+					<constraints>
+						<options>
+							<option label="30009">japanese</option>
+							<option label="30010">english</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="race_dark_filter_level" type="string" label="30002" help="30011">
+					<level>0</level>
+					<default>0</default>
+					<constraints>
+						<options>
+							<option>0</option>
+							<option>5</option>
+							<option>10</option>
+							<option>15</option>
+							<option>20</option>
+							<option>25</option>
+							<option>30</option>
+							<option>35</option>
+							<option>40</option>
+							<option>45</option>
+							<option>50</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="race_frameskip" type="string" label="30003" help="30012">
+					<level>0</level>
+					<default>disabled</default>
+					<constraints>
+						<options>
+							<option>disabled</option>
+							<option label="30013">auto</option>
+							<option label="30014">manual</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="race_frameskip_threshold" type="string" label="30004" help="30015">
+					<level>0</level>
+					<default>33</default>
+					<constraints>
+						<options>
+							<option>15</option>
+							<option>18</option>
+							<option>21</option>
+							<option>24</option>
+							<option>27</option>
+							<option>30</option>
+							<option>33</option>
+							<option>36</option>
+							<option>39</option>
+							<option>42</option>
+							<option>45</option>
+							<option>48</option>
+							<option>51</option>
+							<option>54</option>
+							<option>57</option>
+							<option>60</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="race_rtc_mode" type="string" label="30005" help="30016">
+					<level>0</level>
+					<default>deterministic</default>
+					<constraints>
+						<options>
+							<option label="30017">deterministic</option>
+							<option label="30018">realtime</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="race_audio_quality" type="string" label="30006" help="30019">
+					<level>0</level>
+					<default>fast</default>
+					<constraints>
+						<options>
+							<option label="30020">fast</option>
+							<option label="30021">accurate</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="race_audio_samplerate" type="string" label="30007" help="30022">
+					<level>0</level>
+					<default>auto</default>
+					<constraints>
+						<options>
+							<option label="30013">auto</option>
+							<option label="30023">32000</option>
+							<option label="30024">44100</option>
+							<option label="30025">48000</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+			</group>
+		</category>
+	</section>
 </settings>
