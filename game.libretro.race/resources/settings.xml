@@ -39,7 +39,7 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
+							<option label="13106">disabled</option>
 							<option label="30013">auto</option>
 							<option label="30014">manual</option>
 						</options>
